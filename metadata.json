@@ -1,0 +1,6 @@
+{
+  "name": "Veloura Skincare",
+  "description": "Mobile-first luxury health and beauty e-commerce web application for premium skincare rituals, routines, and effortless shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
